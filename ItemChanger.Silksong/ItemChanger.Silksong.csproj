@@ -29,6 +29,9 @@
     <Using Remove="System.Net.Http" />
     <Using Remove="System.Threading" />
     <Using Remove="System.Threading.Tasks" />
+    <Using Include="UnityEngine.Object" Alias="UObject" />
+    <Using Include="UnityEngine.GameObject" Alias="GameObject" />
+    <Using Include="ItemChanger.Silksong.GlobalRefs" Static="true"/>
   </ItemGroup>
 
   <ItemGroup>

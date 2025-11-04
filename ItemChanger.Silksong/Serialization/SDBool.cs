@@ -17,7 +17,7 @@ namespace ItemChanger.Silksong.Serialization
             }
             set
             {
-                SceneData.instance.PersistentBools.SetValue(new() { SceneName = SceneName, ID = ID, IsSemiPersistent = SemiPersistent, Mutator = Mutator, Value = Value });
+                SceneData.instance.PersistentBools.SetValue(new() { SceneName = SceneName, ID = ID, IsSemiPersistent = SemiPersistent, Mutator = Mutator, Value = value });
             }
         }
 
