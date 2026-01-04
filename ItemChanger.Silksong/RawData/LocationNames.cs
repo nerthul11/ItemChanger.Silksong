@@ -124,6 +124,15 @@ public static class LocationNames
     public const string Weighted_Belt__Mort_Dead = "Weighted_Belt-Mort_Dead";
 
     // TODO: collectable items
+    // silk hearts
+    public const string Silk_Heart__Bell_Beast = "Silk_Heart-Bell_Beast";
+    public const string Silk_Heart__Lace = "Silk_Heart-Lace";
+    public const string Silk_Heart__Unravelled = "Silk_Heart-Unravelled";
+
+    // pale oil
+    public const string Pale_Oil__Fleatopia = "Pale_Oil-Fleatopia";
+    public const string Pale_Oil__Grand_Gourmet = "Pale_Oil-Grand_Gourmet";
+    public const string Pale_Oil__Whispering_Vault = "Pale_Oil-Whispering_Vault";
 
     // keys (note: architect's key and two simple keys are shop items)
       //public const string Architect_s_Key = "Architect's_Key";
@@ -143,7 +152,7 @@ public static class LocationNames
     public const string Bone_Scroll__Burning_Bug = "Bone_Scroll-Burning_Bug"; // Bone Record Wisp Top
     public const string Bone_Scroll__Lost_Pilgrim = "Bone_Scroll-Lost_Pilgrim"; // Bone Record Greymoor_flooded_corridor
     public const string Bone_Scroll__Singed_Pilgrim = "Bone_Scroll-Singed_Pilgrim"; // Bone Record Bone_East_14
-    public const string Bone_Scroll__Underwprker = "Bone_Scroll-Underworker"; // Bone Record Understore_Map_Room
+    public const string Bone_Scroll__Underworker = "Bone_Scroll-Underworker"; // Bone Record Understore_Map_Room
     public const string Choral_Commandment__Eternity = "Choral_Commandment-Eternity"; // Seal Chit City Merchant
     public const string Choral_Commandment__Light = "Choral_Commandment-Light"; // Seal Chit Silk Siphon
     public const string Choral_Commandment__Surgeon = "Choral_Commandment-Surgeon"; // Seal Chit Ward Corpse
